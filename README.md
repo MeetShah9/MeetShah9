@@ -1,9 +1,10 @@
+# **Hi there**👋
+🌟 Hey there, I'm **Meet**, a passionate student delving into the fascinating realms of Python, Data Science, and sports! 🚀
+
 🔭 Currently working on: Improving my coding skills and making instresting projects.
 
-🌱 Currently learning: Artifical Intelligence , as well as exploring machine learning techniques.
+📑 **Recent Project:** A Diabetes predictor app built using Python and Streamlit. Check it out [here!](https://github.com/MeetShah9/Diabetes_predictor).
 
 📚 Education: Graduated with a degree in Computer Science from Navrachana University(2025). Continuously learning through online courses and self-study.
-
-🔍 Interests: Enthusiastic about data science, Python programming, and the role of data in sports analytics. 
 
 ⚡ Fun fact: I'm passionate about watching movies and playing football.
