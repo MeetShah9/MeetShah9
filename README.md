@@ -5,6 +5,4 @@
 
 📑 **Recent Project:** A Diabetes predictor app built using Python and Streamlit. Check it out [here!](https://github.com/MeetShah9/Diabetes_predictor).
 
-📚 Education: Graduated with a degree in Computer Science from Navrachana University(2025). Continuously learning through online courses and self-study.
-
 ⚡ Fun fact: I'm passionate about watching movies and playing football.
