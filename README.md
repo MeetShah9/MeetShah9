@@ -2,7 +2,7 @@
 
 🌱 Currently learning: Artifical Intelligence , as well as exploring machine learning techniques.
 
-📚 Education: Graduated with a degree in Computer Science from Navrachana University. Continuously learning through online courses and self-study.
+📚 Education: Graduated with a degree in Computer Science from Navrachana University(2025). Continuously learning through online courses and self-study.
 
 🔍 Interests: Enthusiastic about data science, Python programming, and the role of data in sports analytics. 
 
