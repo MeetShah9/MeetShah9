@@ -5,4 +5,4 @@
 
 📑 **Recent Project:** A Diabetes predictor app built using Python and Streamlit. Check it out [here!](https://github.com/MeetShah9/Diabetes_predictor).
 
-⚡ Fun fact: I'm passionate about watching movies and playing football.
+⚡ Fun fact:No English manager has ever won the Premier Leauge. 🤯
