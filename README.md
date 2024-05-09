@@ -3,6 +3,6 @@
 
 🔭 Currently working on: Improving my coding skills and making instresting projects.
 
-📑 **Recent Project:** A AI Lyrics Generation with LSTM. Check it out [here!](https://github.com/MeetShah9/rnn-lyrics-generation).
+📑 **Recent Project:** AI Lyrics Generation with LSTM. Check it out [here!](https://github.com/MeetShah9/rnn-lyrics-generation).
 
 ⚡ Fun fact: No English manager has ever won the Premier Leauge. 🤯
