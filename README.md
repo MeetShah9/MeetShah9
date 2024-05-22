@@ -1,5 +1,5 @@
 # **Hi there**👋
-🌟 Hey there, I'm **Meet**, a passionate student delving into the fascinating realms of Python, Data Science, and Machine Learning! 🚀
+🌟 Hey there, I'm **Meet**, a passionate student delving into the fascinating realms of Python,Data Science,and Machine Learning!🚀
 
 🔭 Currently working on: Improving my coding skills and making instresting projects.
 
