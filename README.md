@@ -3,5 +3,5 @@
 
 🔭 Currently working on: Improving my coding skills and making instresting projects.
 
-📑 **Recent Project:** AI Lyrics Generation with LSTM. Check it out [here!](https://github.com/MeetShah9/rnn-lyrics-generation).
+📑 **Recent Project:** YouTube Video Summarizer. Check it out [here!](https://github.com/MeetShah9/YouTube_video_summary).
 
