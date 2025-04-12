@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on: Improving my coding skills and making instresting projects.
 
-- 📑 **Recent Project:** YouTube Video Summarizer. Check it out [here!](https://github.com/MeetShah9/YouTube_video_summary).
+- 📑 **Recent Project:** A Chrome Extension that shows lyrics of currently playing song on Spotify. [Check it out here!](https://github.com/MeetShah9/Spotify-chrome-extension).
 
 ## Skills
 
