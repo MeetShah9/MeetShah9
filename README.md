@@ -1,7 +1,7 @@
 # **Hi there**👋
 - 🌟 I'm **Meet**, a passionate student delving into the fascinating realms of Python,Data Science,and Machine Learning!🚀
 
-- 🔭 Currently working on: Improving my coding skills and making instresting projects.
+- 🔭 Currently working on: Improving my coding skills and making intresting projects.
 
 - 📑 **Recent Project:** A Chrome Extension that shows lyrics of currently playing song on Spotify. [Check it out here!](https://github.com/MeetShah9/Spotify-chrome-extension).
 
